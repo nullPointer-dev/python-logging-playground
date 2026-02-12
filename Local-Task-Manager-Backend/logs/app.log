@@ -1,0 +1,12 @@
+2026-02-05 19:50:53,652 - ERROR - JSON corrupted. Resetting file.
+2026-02-05 19:51:04,296 - ERROR - JSON corrupted. Resetting file.
+2026-02-05 19:51:04,512 - INFO - Data written successfully.
+2026-02-05 19:51:04,512 - INFO - Task added: Clean Room
+2026-02-05 19:51:52,744 - INFO - Task completed: 1
+2026-02-05 19:51:52,746 - INFO - Data written successfully.
+2026-02-05 19:55:32,866 - INFO - Data written successfully.
+2026-02-05 19:55:32,866 - INFO - Task deleted: 2
+2026-02-05 19:57:10,470 - INFO - Data written successfully.
+2026-02-05 19:57:10,471 - INFO - Task added: Bath
+2026-02-05 19:57:15,460 - INFO - Data written successfully.
+2026-02-05 19:57:15,460 - INFO - Task deleted: 2

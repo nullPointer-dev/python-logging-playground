@@ -1,0 +1,20 @@
+2026-02-12 17:58:57,640 | __main__   | DEBUG    | e92cd8       | Session Started
+2026-02-12 17:59:14,754 | __main__   | DEBUG    | e92cd8       | User Entered 3
+2026-02-12 17:59:19,606 | __main__   | DEBUG    | e92cd8       | Num1 Enterred: 4
+2026-02-12 17:59:19,606 | __main__   | DEBUG    | e92cd8       | Num2 Enterred: -a
+2026-02-12 17:59:19,607 | __main__   | WARNING  | e92cd8       | Invalid Numbers Enterred
+2026-02-12 17:59:48,684 | __main__   | DEBUG    | e92cd8       | User Entered 3
+2026-02-12 17:59:57,079 | __main__   | DEBUG    | e92cd8       | Num1 Enterred: 7
+2026-02-12 17:59:57,079 | __main__   | DEBUG    | e92cd8       | Num2 Enterred: 0
+2026-02-12 17:59:57,079 | __main__   | DEBUG    | e92cd8       | Parsed numbers: 7.0, 0.0
+2026-02-12 17:59:57,080 | __main__   | DEBUG    | e92cd8       | Performing Multiplication
+2026-02-12 17:59:57,080 | operations | INFO     | e92cd8       | Operation = Multiplication, Num1 = 7.0, Num2 = 0.0, Result = 0.0
+2026-02-12 18:00:04,505 | __main__   | DEBUG    | e92cd8       | User Entered 4
+2026-02-12 18:00:07,581 | __main__   | DEBUG    | e92cd8       | Num1 Enterred: 6
+2026-02-12 18:00:07,582 | __main__   | DEBUG    | e92cd8       | Num2 Enterred: 0
+2026-02-12 18:00:07,582 | __main__   | DEBUG    | e92cd8       | Parsed numbers: 6.0, 0.0
+2026-02-12 18:00:07,582 | __main__   | DEBUG    | e92cd8       | Performing Division
+2026-02-12 18:00:07,582 | operations | ERROR    | e92cd8       | Division By ZERO
+2026-02-12 18:00:35,788 | __main__   | DEBUG    | e92cd8       | User Entered 5
+2026-02-12 18:00:35,789 | __main__   | INFO     | e92cd8       | Exited Calculator
+2026-02-12 18:00:35,789 | __main__   | DEBUG    | e92cd8       | Session Ended
