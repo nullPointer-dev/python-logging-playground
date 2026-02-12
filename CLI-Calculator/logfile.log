@@ -18,3 +18,36 @@
 2026-02-12 18:00:35,788 | __main__   | DEBUG    | e92cd8       | User Entered 5
 2026-02-12 18:00:35,789 | __main__   | INFO     | e92cd8       | Exited Calculator
 2026-02-12 18:00:35,789 | __main__   | DEBUG    | e92cd8       | Session Ended
+2026-02-12 22:04:39,801 | __main__   | DEBUG    | 1e6c7d       | Session Started
+2026-02-12 22:05:06,142 | __main__   | DEBUG    | 1e6c7d       | User Entered 3
+2026-02-12 22:05:11,799 | __main__   | DEBUG    | 1e6c7d       | Num1 Enterred: -4
+2026-02-12 22:05:11,800 | __main__   | DEBUG    | 1e6c7d       | Num2 Enterred: 0
+2026-02-12 22:05:11,800 | __main__   | DEBUG    | 1e6c7d       | Parsed numbers: -4.0, 0.0
+2026-02-12 22:05:11,800 | __main__   | DEBUG    | 1e6c7d       | Performing Multiplication
+2026-02-12 22:05:11,800 | operations | INFO     | 1e6c7d       | Operation = Multiplication, Num1 = -4.0, Num2 = 0.0, Result = -0.0
+2026-02-12 22:05:43,628 | __main__   | DEBUG    | 1e6c7d       | User Entered -3
+2026-02-12 22:05:46,792 | __main__   | DEBUG    | 1e6c7d       | Num1 Enterred: 3
+2026-02-12 22:05:46,792 | __main__   | DEBUG    | 1e6c7d       | Num2 Enterred: 2
+2026-02-12 22:05:46,792 | __main__   | DEBUG    | 1e6c7d       | Parsed numbers: 3.0, 2.0
+2026-02-12 22:07:53,970 | __main__   | DEBUG    | 389a6e       | Session Started
+2026-02-12 22:08:08,365 | __main__   | DEBUG    | 389a6e       | User Entered a
+2026-02-12 22:08:08,365 | __main__   | WARNING  | 389a6e       | Invalid Input
+2026-02-12 22:08:18,846 | __main__   | DEBUG    | 389a6e       | User Entered -2
+2026-02-12 22:08:18,846 | __main__   | WARNING  | 389a6e       | Invalid Input Operation
+2026-02-12 22:08:26,636 | __main__   | DEBUG    | 389a6e       | User Entered 9
+2026-02-12 22:08:26,636 | __main__   | WARNING  | 389a6e       | Invalid Input Operation
+2026-02-12 22:08:28,386 | __main__   | DEBUG    | 389a6e       | User Entered 3
+2026-02-12 22:08:29,496 | __main__   | DEBUG    | 389a6e       | Num1 Enterred: 3
+2026-02-12 22:08:29,496 | __main__   | DEBUG    | 389a6e       | Num2 Enterred: 3
+2026-02-12 22:08:29,496 | __main__   | DEBUG    | 389a6e       | Parsed numbers: 3.0, 3.0
+2026-02-12 22:08:29,496 | __main__   | DEBUG    | 389a6e       | Performing Multiplication
+2026-02-12 22:08:29,496 | operations | INFO     | 389a6e       | Operation = Multiplication, Num1 = 3.0, Num2 = 3.0, Result = 9.0
+2026-02-12 22:08:33,995 | __main__   | DEBUG    | 389a6e       | User Entered 4
+2026-02-12 22:08:36,122 | __main__   | DEBUG    | 389a6e       | Num1 Enterred: 4
+2026-02-12 22:08:36,122 | __main__   | DEBUG    | 389a6e       | Num2 Enterred: 0
+2026-02-12 22:08:36,123 | __main__   | DEBUG    | 389a6e       | Parsed numbers: 4.0, 0.0
+2026-02-12 22:08:36,123 | __main__   | DEBUG    | 389a6e       | Performing Division
+2026-02-12 22:08:36,123 | operations | ERROR    | 389a6e       | Division By ZERO
+2026-02-12 22:08:40,741 | __main__   | DEBUG    | 389a6e       | User Entered 5
+2026-02-12 22:08:40,742 | __main__   | INFO     | 389a6e       | Exited Calculator
+2026-02-12 22:08:40,743 | __main__   | DEBUG    | 389a6e       | Session Ended
