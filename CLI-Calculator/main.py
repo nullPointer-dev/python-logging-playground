@@ -15,7 +15,7 @@ while(True):
     logger.debug(f"User Entered {user_input}")
     try:
         op = int(user_input)
-        if(op > 5):
+        if(op > 5 or op < 1):
             logger.warning("Invalid Input Operation")
             continue
     except ValueError:
