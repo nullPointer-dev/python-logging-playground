@@ -19,7 +19,7 @@ def setup_logging(session_id):
     #FILE HANDLER
     file_handler = logging.FileHandler(log_path, mode = 'a')
     file_handler.setLevel(logging.DEBUG)
-    file_formatter = logging.Formatter("%(asctime)s | %(name)-10s | %(levelname)-8s | %(session)-12s | %(message)s")
+    file_formatter = logging.Formatter("%(asctime)s | %(name)-10s | %(levelname)-7s | %(session)-6s | %(message)s")
     file_handler.setFormatter(file_formatter)
 
     #CONSOLE HANDLER
